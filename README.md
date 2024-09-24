@@ -42,22 +42,21 @@
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
       # Sales Insights
+# Insights
 
-## Sales Performance
-- **Sales Leader:** India emerged as the frontrunner in net sales, achieving a remarkable **161.3 million**.
+## Sales Leader
+India emerged as the frontrunner in net sales, achieving a remarkable **161.3 million**.
+**Top-Selling Product**
+The AQ Master wired x1 Ms clinched the crown as the best-selling product.
+**Seasonal Sales Spike**
+Sales significantly soared during the festive seasons, particularly from **October to December**.
 
-## Top-Selling Product
-- **Top-Selling Product:** The **AQ Master wired x1 Ms** clinched the crown as the best-selling product.
+**Leading Customers**
+The top three customers were:
+1. Amazon
+2. AtliQ Exclusive
+3. AtliQ e-store
 
-## Seasonal Trends
-- **Seasonal Sales Spike:** Sales significantly soared during the festive seasons, particularly from **October to December**.
-
-## Customer Insights
-- **Leading Customers:** The top three customers were:
-  1. Amazon
-  2. AtliQ Exclusive
-  3. AtliQ e-store
-
-## New Product Introduction
-- **New Product Performance:** In **2021**, **16 new products** were introduced, with **AQ Qwerty** leading sales at **22 million**.
+**New Product Introduction and Performance**
+In **2021**, **16 new products** were introduced, with **AQ Qwerty** leading sales at **22 million**.
 
