@@ -45,21 +45,27 @@
      	
 # Insights
 
-## Sales Leader
-India emerged as the frontrunner in net sales, achieving a remarkable **161.3 million**.
+- [x]**Sales Leader**
+ 
+  India emerged as the frontrunner in net sales, achieving a remarkable **161.3 million**.
 
-**Top-Selling Product**
-The AQ Master wired x1 Ms clinched the crown as the best-selling product.
+- [x]**Top-Selling Product**
 
-**Seasonal Sales Spike**
-Sales significantly soared during the festive seasons, particularly from **October to December**.
+   [The AQ Master wired x1 Ms]clinched the crown as the best-selling product.
 
-**Leading Customers**
+
+- [x]**Seasonal Sales Spike**
+
+  Sales significantly soared during the festive seasons, particularly from **October to December**.
+
+- [x]**Leading Customers**
+
 The top three customers were:
 1. Amazon
 2. AtliQ Exclusive
 3. AtliQ e-store
 
-**New Product Introduction and Performance**
+- [x]**New Product Introduction and Performance**
+
 In **2021**, **16 new products** were introduced, with **AQ Qwerty** leading sales at **22 million**.
 
