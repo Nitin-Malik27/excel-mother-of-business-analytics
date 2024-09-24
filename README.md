@@ -42,12 +42,15 @@
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
       # Sales Insights
+     	
 # Insights
 
 ## Sales Leader
 India emerged as the frontrunner in net sales, achieving a remarkable **161.3 million**.
+
 **Top-Selling Product**
 The AQ Master wired x1 Ms clinched the crown as the best-selling product.
+
 **Seasonal Sales Spike**
 Sales significantly soared during the festive seasons, particularly from **October to December**.
 
