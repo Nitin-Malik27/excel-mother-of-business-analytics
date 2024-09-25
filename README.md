@@ -60,12 +60,12 @@
 
 - [x]**Leading Customers**
 
-The top three customers were:
-1. Amazon
-2. AtliQ Exclusive
-3. AtliQ e-store
+    The top three customers were:
+       1. Amazon
+       2. AtliQ Exclusive
+       3. AtliQ e-store
 
 - [x]**New Product Introduction and Performance**
 
-In **2021**, **16 new products** were introduced, with **AQ Qwerty** leading sales at **22 million**.
+    In **2021**, **16 new products** were introduced, with **AQ Qwerty** leading sales.     at **22 million**.
 
